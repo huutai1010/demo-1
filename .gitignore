@@ -1,0 +1,18 @@
+# dependencies / build output
+node_modules/
+dist/
+build/
+
+# vercel / netlify local state
+.vercel/
+.netlify/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# logs
+*.log
